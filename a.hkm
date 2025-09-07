@@ -1,4 +1,4 @@
 
-module a package 1.0.0
+module a package 1.1.0
 import git https://github.com/hikogui/hikolang-test-b.git main
 
