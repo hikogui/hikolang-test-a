@@ -1,4 +1,4 @@
 
 module a 1.2.0
-import git "https://github.com/hikogui/hikolang-test-b.git" "main"
+import git "https://github.com/hikoworks/hikolang-test-b.git" "main"
 
